@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.header-main{
+    height: 25vh;
+    background-color: rgb(31, 27, 46);
+    text-align: center;
+    padding-top: 8vh;
+}
+.main-profession{
+    display:flex;
+    justify-content: center;
+}
+.ul-main{
+    list-style-type: none;
+    display: flex;
+    color:white;
+}
+.main-name{
+    color: white;
+    font-size: 70px;
+    font-family: quintessential;
+    font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.section{
+    margin: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    padding-top: 50px;
+    height: 150px;
+    background-color: white;
+    font-family: 'Funnel Sans', sans-serif;
+}
+body{
+    background-color: rgb(240, 240, 240);
+}
+.title{
+    font-size: 30px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+.education{
+    background-color: rgb(201, 220, 233);
+    height: 250px;
+    
+
+}
+.section-lines div:nth-child(2){
+    background-color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 20px;
+}
+.section-lines div:nth-child(3){
+    background-color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 20px;
+}
+.section-lines div:nth-child(4){
+    background-color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 20px;
+}
+.section-lines div:nth-child(5){
+    background-color: white;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 20px;
+}
+.skills{
+    background-color: rgb(241, 240, 167);
+    height: 400px;
+}
+.projects{
+    background-color: rgb(219, 203, 230);
+    height: 320px;
+}
+.contact{
+    background-color: rgb(209, 247, 224);
+    height: 320px;
+}
+.footer-bg{
+    background-color: rgb(31, 27, 46);
+    height: 8vh;
+}
+.footer-text{
+    color: white;
+    text-align: center;
+    padding-top: 3vh;
+    font-family: 'Funnel Sans', sans-serif;
+    font-weight: 100;
+}
